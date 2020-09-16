@@ -1,7 +1,7 @@
 #GIT và GITHUB
-#Git là một hệ thống quản lý phiên bản (VCS), một loại VCS phân tán chạy nhanh, ổn định, dễ sử dụng. Git là mã nguồn mở, có thể cài đặt và sử dụng trên nhiều nền tảng.
-Các lệnh Git
-git config –global user.name newname: đổi tên người dùng
+  Git là một hệ thống quản lý phiên bản (VCS), một loại VCS phân tán chạy nhanh, ổn định, dễ sử dụng. Git là mã nguồn mở, có thể cài đặt và sử dụng trên nhiều nền tảng.
+  Các lệnh Git
+  git config –global user.name newname: đổi tên người dùng
 git config –global user.email newemail@domain.com: đổi email
 git init : khởi tạo một local repository mới
 git init –bare: khởi tạo một Remote Repository mới ở git server
